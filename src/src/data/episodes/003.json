@@ -1,0 +1,15 @@
+{
+  "id": "003",
+  "title": "The Rise of AI in Software Development",
+  "description": "Microsoft's Scott Hanselman discusses how AI is transforming software development. From code completion to automated testing, discover how AI tools are making developers more productive and what this means for the future of our industry.",
+  "publishDate": "2025-10-01",
+  "duration": "61:30",
+  "featured": false,
+  "imageUrl": "/episodes/003-ai-development.jpg",
+  "guest": {
+    "name": "Scott Hanselman",
+    "title": "Partner Program Manager at Microsoft",
+    "avatarUrl": "/guests/scott-hanselman.jpg"
+  },
+  "tags": ["Artificial Intelligence", "Software Development", "Developer Tools", "Future Tech"]
+}

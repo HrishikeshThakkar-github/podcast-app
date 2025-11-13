@@ -1,0 +1,15 @@
+{
+  "id": "005",
+  "title": "The Evolution of React and Modern Frontend",
+  "description": "Dan Abramov discusses the latest developments in React, including Server Components, Suspense, and the future of frontend development. Get insights into upcoming features and best practices.",
+  "publishDate": "2025-09-17",
+  "duration": "63:10",
+  "featured": false,
+  "imageUrl": "/episodes/005-react-future.jpg",
+  "guest": {
+    "name": "Dan Abramov",
+    "title": "Software Engineer at Meta",
+    "avatarUrl": "/guests/dan-abramov.jpg"
+  },
+  "tags": ["React", "Frontend Development", "JavaScript", "Web Development"]
+}

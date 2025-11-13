@@ -1,0 +1,15 @@
+{
+  "id": "004",
+  "title": "Building Scalable Design Systems",
+  "description": "Brad Frost walks us through the process of creating and maintaining design systems at scale. Learn about atomic design principles, component libraries, and strategies for getting team buy-in.",
+  "publishDate": "2025-09-24",
+  "duration": "55:45",
+  "featured": false,
+  "imageUrl": "/episodes/004-design-systems.jpg",
+  "guest": {
+    "name": "Brad Frost",
+    "title": "Web Design System Consultant",
+    "avatarUrl": "/guests/brad-frost.jpg"
+  },
+  "tags": ["Design Systems", "UI Design", "Component Libraries", "Team Collaboration"]
+}

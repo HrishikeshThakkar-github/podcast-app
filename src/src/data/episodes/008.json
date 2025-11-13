@@ -1,0 +1,15 @@
+{
+  "id": "008",
+  "title": "Building for the Edge: The Future of Cloud Computing",
+  "description": "Guillermo Rauch discusses edge computing and its impact on web applications. Learn about the latest developments in serverless architecture and how to build faster, more reliable applications.",
+  "publishDate": "2025-08-27",
+  "duration": "59:15",
+  "featured": false,
+  "imageUrl": "/episodes/008-edge-computing.jpg",
+  "guest": {
+    "name": "Guillermo Rauch",
+    "title": "CEO at Vercel",
+    "avatarUrl": "/guests/guillermo-rauch.jpg"
+  },
+  "tags": ["Edge Computing", "Cloud", "Performance", "Architecture"]
+}

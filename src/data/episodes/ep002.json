@@ -1,0 +1,17 @@
+{
+  "id": "ep002",
+  "title": "Building Scalable Applications",
+  "description": "Learn about the best practices and architectural patterns for building scalable applications that can handle millions of users.",
+  "publishDate": "2025-10-10",
+  "duration": "52:15",
+  "imageUrl": "/images/episodes/ep002.jpg",
+  "featured": false,
+  "tags": ["architecture", "scalability", "best practices", "cloud"],
+  "guests": [
+    {
+      "name": "John Doe",
+      "role": "Cloud Architect",
+      "imageUrl": "/images/guests/john-doe.jpg"
+    }
+  ]
+}

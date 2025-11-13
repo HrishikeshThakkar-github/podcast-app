@@ -1,0 +1,15 @@
+{
+  "id": "006",
+  "title": "Performance Optimization in Modern Web Apps",
+  "description": "Addy Osmani shares advanced techniques for optimizing web application performance. Learn about Core Web Vitals, JavaScript optimization, and tools for measuring and improving user experience.",
+  "publishDate": "2025-09-10",
+  "duration": "57:20",
+  "featured": false,
+  "imageUrl": "/episodes/006-web-performance.jpg",
+  "guest": {
+    "name": "Addy Osmani",
+    "title": "Engineering Manager at Google",
+    "avatarUrl": "/guests/addy-osmani.jpg"
+  },
+  "tags": ["Performance", "Web Development", "Optimization", "User Experience"]
+}
