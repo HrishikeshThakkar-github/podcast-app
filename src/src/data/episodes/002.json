@@ -1,0 +1,15 @@
+{
+  "id": "002",
+  "title": "Designing for Accessibility First",
+  "description": "Sara Soueidan shares her expertise on building truly inclusive web experiences. Learn about the latest accessibility best practices, common pitfalls to avoid, and how to make your applications work for everyone.",
+  "publishDate": "2025-10-08",
+  "duration": "52:15",
+  "featured": false,
+  "imageUrl": "/episodes/002-accessibility.jpg",
+  "guest": {
+    "name": "Sara Soueidan",
+    "title": "Independent Web UI/Design Engineer",
+    "avatarUrl": "/guests/sara-soueidan.jpg"
+  },
+  "tags": ["Accessibility", "UX Design", "Web Standards", "Inclusive Design"]
+}

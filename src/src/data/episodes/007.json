@@ -1,0 +1,15 @@
+{
+  "id": "007",
+  "title": "The State of CSS in 2025",
+  "description": "Lea Verou explores the latest CSS features and how they're changing web development. From Container Queries to Cascade Layers, discover how modern CSS is making complex layouts easier than ever.",
+  "publishDate": "2025-09-03",
+  "duration": "54:45",
+  "featured": false,
+  "imageUrl": "/episodes/007-modern-css.jpg",
+  "guest": {
+    "name": "Lea Verou",
+    "title": "CSS Working Group Member",
+    "avatarUrl": "/guests/lea-verou.jpg"
+  },
+  "tags": ["CSS", "Web Development", "Design", "Frontend"]
+}

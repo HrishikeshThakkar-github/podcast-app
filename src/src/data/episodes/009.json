@@ -1,0 +1,15 @@
+{
+  "id": "009",
+  "title": "The Future of TypeScript and Static Typing",
+  "description": "Anders Hejlsberg explores the evolution of TypeScript and the future of static typing in JavaScript. Learn about upcoming features and how TypeScript is shaping modern development practices.",
+  "publishDate": "2025-08-20",
+  "duration": "62:30",
+  "featured": false,
+  "imageUrl": "/episodes/009-typescript-future.jpg",
+  "guest": {
+    "name": "Anders Hejlsberg",
+    "title": "Technical Fellow at Microsoft",
+    "avatarUrl": "/guests/anders-hejlsberg.jpg"
+  },
+  "tags": ["TypeScript", "JavaScript", "Programming Languages", "Development"]
+}

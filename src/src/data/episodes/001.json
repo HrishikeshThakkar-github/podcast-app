@@ -1,0 +1,15 @@
+{
+  "id": "001",
+  "title": "The Future of Web Development with WebAssembly",
+  "description": "Join us as we dive deep into WebAssembly with Lin Clark from Mozilla. We discuss how WebAssembly is revolutionizing web performance, enabling new types of applications, and what developers need to know about this game-changing technology.",
+  "publishDate": "2025-10-15",
+  "duration": "58:24",
+  "featured": true,
+  "imageUrl": "/episodes/001-wasm-future.jpg",
+  "guest": {
+    "name": "Lin Clark",
+    "title": "Principal Research Engineer at Mozilla",
+    "avatarUrl": "/guests/lin-clark.jpg"
+  },
+  "tags": ["WebAssembly", "Performance", "Web Development", "Future Tech"]
+}

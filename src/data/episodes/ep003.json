@@ -1,0 +1,17 @@
+{
+  "id": "ep003",
+  "title": "Design Systems at Scale",
+  "description": "Discover how to create and maintain design systems that scale across large organizations and multiple products.",
+  "publishDate": "2025-10-05",
+  "duration": "48:45",
+  "imageUrl": "/images/episodes/ep003.jpg",
+  "featured": false,
+  "tags": ["design", "ui/ux", "design systems", "collaboration"],
+  "guests": [
+    {
+      "name": "Sarah Johnson",
+      "role": "Design Systems Lead",
+      "imageUrl": "/images/guests/sarah-johnson.jpg"
+    }
+  ]
+}

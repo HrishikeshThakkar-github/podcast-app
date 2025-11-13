@@ -1,0 +1,17 @@
+{
+  "id": "ep001",
+  "title": "The Future of Web Development",
+  "description": "In this episode, we explore emerging trends in web development, discussing technologies like WebAssembly, Edge Computing, and the future of JavaScript frameworks.",
+  "publishDate": "2025-10-15",
+  "duration": "45:30",
+  "imageUrl": "/images/episodes/ep001.jpg",
+  "featured": true,
+  "tags": ["web development", "technology", "javascript", "future trends"],
+  "guests": [
+    {
+      "name": "Jane Smith",
+      "role": "Senior Developer at TechCorp",
+      "imageUrl": "/images/guests/jane-smith.jpg"
+    }
+  ]
+}
